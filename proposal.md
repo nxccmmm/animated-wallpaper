@@ -8,3 +8,4 @@
 **Outcomes** -
     1. **Ideal Outcome** -  My goal is to make a picture will pop up everytime the mouse clicks anywhere on the parameters of the screen. Sort of like an animated collage but within a small window screen.
     2. **Minimal Viable Outcome** - If my goal is not a bit too difficult, I want to be able to make an animated window when the images will pop up one after the other with the heart background.
+**Milestones**- I will make the first goal to create the animated background first. The second goal will be to get at least half the code done for the animated clicks. Preferably setting up the window and connecting the background into this 2nd goal. Also including in the second goal, I want to have the images imported already into the files. The third goal is to finish the code and/or be able to fix any imperfections of the code. If worst comes to worst by then i would have figured out if my main idea is not too difficult for me and rework from there.
